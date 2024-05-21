@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/*layout.css*/
+
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+  body {
+    font: 20px 'Nanum Gothic',dotum, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+    background-color: darkseagreen; 
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: palegoldenrod; 
+    color: #555555;
+  }
+  .bg-3 { 
+    background-color: #ffffff; 
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #2f2f2f;
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
