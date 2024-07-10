@@ -28,12 +28,16 @@
 
 ## ⚙️ 화면구성
 
-<img width="800" alt="mw 게시판" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a15048d4-457c-4b2c-b55b-01f0ac98dd64">
+<img width="800" alt="mw 게시판" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a15048d4-457c-4b2c-b55b-01f0ac98dd64"> <br>
+게시판에서 글 작성 및 수정,삭제, 답변 달기 가능합니다
+
+<img width="530" alt="스크린샷 2024-07-10 오후 12 53 02" src="https://github.com/rla-wjdqls/myweb/assets/152236710/5ba7d9d6-3f41-4870-87db-b71fd9e6b677"> <br>
+포토갤러리 게시판에서 파일 첨부 가능합니다 <br>
 
 
 <img width="400" alt="mw 메일보내기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/e6a3420a-6ff2-4687-8cf3-d953fba58f9d">
 <img width="400" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">  <br>
-메일을 보내고 수신 할 수 있습니다
+메일을 보내고 수신 할 수 있습니다 <br>
 
 
 <img width="800" alt="mw 검색" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a5639ecd-0a1d-47e4-9969-8fa0a613b8ea"> <br>
