@@ -29,7 +29,7 @@
 
 ### [게시판]<br>
 <div align=center>
-  <img width="350" height="450" alt="게시판완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/1a9b5985-2f2d-4b76-a1e0-d0e99fc60bd5">
+  <img width="350" height="400" alt="게시판완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/1a9b5985-2f2d-4b76-a1e0-d0e99fc60bd5">
   <img width="350" height="450" alt="mw 답변달기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/4dbb40b0-5421-4c1e-ab44-3587255424e9">
 </div>
 
@@ -46,8 +46,8 @@
 
 ### [메일]<br>
 <div align=center>
-  <img width="400" height="450" alt="메일완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/7bfac03b-7964-457b-9842-e3ffe81d2099">
-  <img width="400" height="450" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">  <br>
+  <img width="350" height="450" alt="메일완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/7bfac03b-7964-457b-9842-e3ffe81d2099">
+  <img width="350" height="450" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">  <br>
 </div>
 
 - 메일을 보내고 수신 할 수 있습니다 <br>
