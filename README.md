@@ -29,8 +29,8 @@
 
 ### [게시판]<br>
 <div align=center>
-  <img width="400" height="450" alt="게시판완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/1a9b5985-2f2d-4b76-a1e0-d0e99fc60bd5">
-  <img width="400" height="450" alt="포토갤러리완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/585e0171-1fa3-4a82-afea-e547b770fee2">
+  <img width="350" height="450" alt="게시판완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/1a9b5985-2f2d-4b76-a1e0-d0e99fc60bd5">
+  <img width="350" height="450" alt="mw 답변달기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/4dbb40b0-5421-4c1e-ab44-3587255424e9">
 </div>
 
 - 게시판에서 글 작성 및 수정,삭제, 답변 달기 가능합니다<br>
@@ -38,7 +38,7 @@
 - ㅓㅓㅓ
 
 <div align=center>
-  <img width="400" height="450" alt="mw 답변달기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/4dbb40b0-5421-4c1e-ab44-3587255424e9">
+  <img width="400" height="450" alt="포토갤러리완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/585e0171-1fa3-4a82-afea-e547b770fee2">
 </div>
 
 - 게시판 내용 검색 가능합니다 <br>
