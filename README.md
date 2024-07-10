@@ -40,17 +40,17 @@
 - 게시판에서 글 작성 및 수정,삭제 및 답변 달기 가능합니다
 - 조회수 10 이상일 시 인기글로 선정되어 제목에 아이콘이 붙습니다
 - 글 작성 후 24시간까지 최신글 아이콘이 붙습니다
-- 제목,내용,작성자 키워드를 이용하여 게시판 내 작성글을 검색할 수 있습니다
+- 제목,내용,작성자 키워드를 이용하여 게시판 내 작성글을 검색할 수 있습니다<br>
 
 <div align=center>
   <img width="600" height="450" alt="포토갤러리완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/585e0171-1fa3-4a82-afea-e547b770fee2">
 </div>
 
-- 포토갤러리 게시판에서 파일 첨부 가능합니다 
+- 포토갤러리 게시판에서 파일 첨부 가능합니다<br> 
 
 ### [메일]<br>
 <div align=center>
-  <img width="600" height="450" alt="메일완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/7bfac03b-7964-457b-9842-e3ffe81d2099"><br>
+  <img width="600" height="450" alt="메일완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/7bfac03b-7964-457b-9842-e3ffe81d2099">
   <img width="600" height="450" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">  
 </div>
 
