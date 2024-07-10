@@ -30,8 +30,8 @@
 
 ### [게시판]<br>
 <div align=center>
-  <img width="400" height="400" alt="게시판완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/1a9b5985-2f2d-4b76-a1e0-d0e99fc60bd5"><br>
-  <img width="400" height="400" alt="mw 답변달기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/4dbb40b0-5421-4c1e-ab44-3587255424e9">
+  <img width="600" height="450" alt="게시판완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/1a9b5985-2f2d-4b76-a1e0-d0e99fc60bd5"><br>
+  <img width="600" height="450" alt="mw 답변달기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/4dbb40b0-5421-4c1e-ab44-3587255424e9">
 </div>
 
 - 게시판에서 글 작성 및 수정,삭제, 답변 달기 가능합니다<br>
@@ -39,7 +39,7 @@
 - ㅓㅓㅓ
 
 <div align=center>
-  <img width="400" height="450" alt="포토갤러리완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/585e0171-1fa3-4a82-afea-e547b770fee2">
+  <img width="600" height="450" alt="포토갤러리완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/585e0171-1fa3-4a82-afea-e547b770fee2">
 </div>
 
 - 게시판 내용 검색 가능합니다 <br>
@@ -47,8 +47,8 @@
 
 ### [메일]<br>
 <div align=center>
-  <img width="400" height="400" alt="메일완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/7bfac03b-7964-457b-9842-e3ffe81d2099"><br>
-  <img width="400" height="400" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">  
+  <img width="600" height="450" alt="메일완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/7bfac03b-7964-457b-9842-e3ffe81d2099"><br>
+  <img width="600" height="450" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">  
 </div>
 
 - 메일을 보내고 수신 할 수 있습니다 <br>
