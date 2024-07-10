@@ -28,25 +28,24 @@
 <br>
 
 ### [게시판]<br>
-<img width="450" height="450" alt="mw 게시판" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a15048d4-457c-4b2c-b55b-01f0ac98dd64">
-<img width="450" height="450" alt="스크린샷 2024-07-10 오후 12 53 02" src="https://github.com/rla-wjdqls/myweb/assets/152236710/5ba7d9d6-3f41-4870-87db-b71fd9e6b677"> <br>
+<img width="450" height="450" alt="게시판완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/1a9b5985-2f2d-4b76-a1e0-d0e99fc60bd5">
+<img width="450" height="450" alt="포토갤러리완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/585e0171-1fa3-4a82-afea-e547b770fee2">
 
 - 게시판에서 글 작성 및 수정,삭제, 답변 달기 가능합니다<br>
 - 포토갤러리 게시판에서 파일 첨부 가능합니다 
 - ㅓㅓㅓ
 
-<br><img width="450" height="450" alt="mw 검색" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a5639ecd-0a1d-47e4-9969-8fa0a613b8ea">
+<br><img width="450" height="450" alt="댓글검색" src="https://github.com/rla-wjdqls/myweb/assets/152236710/d8ad9038-89ac-420e-b0f3-b98239723b11">
 <img width="450" height="450" alt="mw 답변달기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/4dbb40b0-5421-4c1e-ab44-3587255424e9">
 
 - 게시판 내용 검색 가능합니다 <br>
 - 답변을 달고 게시판에서 확인 할 수 있습니다<br>
 
 ### [메일]<br>
-<img width="450" height="450" alt="mw 메일보내기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/e6a3420a-6ff2-4687-8cf3-d953fba58f9d">
+<img width="450" height="450" alt="메일완" src="https://github.com/rla-wjdqls/myweb/assets/152236710/7bfac03b-7964-457b-9842-e3ffe81d2099">
 <img width="450" height="450" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">  <br>
 
 - 메일을 보내고 수신 할 수 있습니다 <br>
-
 
 
 
