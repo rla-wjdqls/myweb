@@ -1,5 +1,5 @@
 <div align=center>
-<img width="417" alt="myweb index" src="https://github.com/rla-wjdqls/myweb/assets/152236710/67ed6463-346e-4637-95a2-31163afd6104">
+<img width="500" alt="mw 홈" src="https://github.com/rla-wjdqls/myweb/assets/152236710/22662c00-1973-42bb-a394-e44c013d71cf">
   <h2></h2>
   http://shy02261.cafe24.com/index.jsp
   <br>
@@ -32,6 +32,12 @@ Jpa
 
 
 ## ⚙️ 화면구성
+<img width="800" alt="mw 메일보내기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/e6a3420a-6ff2-4687-8cf3-d953fba58f9d">
+<img width="800" alt="mw 게시판" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a15048d4-457c-4b2c-b55b-01f0ac98dd64">
+<img width="800" alt="mw 메일수신" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a4090cf2-ffe0-4bbb-8cac-3f5f7103f96f">
+<img width="800" alt="mw 검색" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a5639ecd-0a1d-47e4-9969-8fa0a613b8ea">
+<img width="800" alt="mw 답변달기" src="https://github.com/rla-wjdqls/myweb/assets/152236710/4dbb40b0-5421-4c1e-ab44-3587255424e9">
+<img width="800" alt="mw 답변게시판" src="https://github.com/rla-wjdqls/myweb/assets/152236710/a6f62f83-c964-4395-a58d-64fc6d162345">
 
 
 ## ⚙️ 주요기능 
