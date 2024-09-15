@@ -1,4 +1,4 @@
-
+<!--
 <div align=center>
 <img width="500" alt="mw 홈" src="https://github.com/rla-wjdqls/myweb/assets/152236710/22662c00-1973-42bb-a394-e44c013d71cf">
   <br>
@@ -56,7 +56,7 @@
 
 - 간단한 메일을 전송할 수 있습니다
 
-
+-->
 
 
 <br>
